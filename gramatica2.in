@@ -1,0 +1,14 @@
+C
+C := 1 E
+C := 10 ABCDEFG
+E := 1 CGC
+G := 1 e
+G := 5 CE
+A := 1 ABA
+A := 1 D
+B := 1 e
+C := 1 e
+D := 1 e
+E := 1 e
+F := 1 e
+G := 1 e
